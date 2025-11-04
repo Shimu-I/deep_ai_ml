@@ -60,8 +60,3 @@
 
 ---
 
-=======
-
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shimu-I.deep_ai_ml)
->>>>>>> a6a4daaded2ca7c5ab33cba2cc99174e4920b705
